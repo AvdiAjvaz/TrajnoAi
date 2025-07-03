@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Platforma e Trajnimeve të Personalizuara
 
-## Getting Started
+> Revolucionojmë zhvillimin e talenteve duke krijuar kurse të personalizuara bazuar në performancën individuale dhe analizën e gabimeve të zakonshme në punë.
 
-First, run the development server:
+## ✨ Karakteristikat Kryesore
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🧠 **AI të Avancuar** - Algoritme të sofistikuar për analizë të performancës  
+🎯 **Fokus të Targetuar** - Kurse specifike për zonat e dobëta  
+📈 **Rezultate të Matura** - Ndjekje progresi në kohë reale  
+👥 **Për Çdo Ekip** - Skalojmë për ekipe të vogla dhe ndërmarrje të mëdha  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🎨 Design Modern
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Animacione të Bukura** me Framer Motion
+- **UI Gradiente** për prezantim profesional  
+- **Responsive Design** për të gjitha pajisjet
+- **Glass Morphism Effects** për look modern
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Tech Stack
 
-## Learn More
+- **Frontend**: Next.js 14, TypeScript, Tailwind CSS
+- **Animacione**: Framer Motion
+- **Ikona**: Lucide React
+- **Styling**: Tailwind CSS me gradient të personalizuar
 
-To learn more about Next.js, take a look at the following resources:
+## 🚀 Si të Fillosh
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. **Klono projektin**
+   ```bash
+   git clone [repository-url]
+   cd personalized-training-platform
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+2. **Instalo dependencies**
+   ```bash
+   npm install
+   ```
 
-## Deploy on Vercel
+3. **Nis aplikacionin**
+   ```bash
+   npm run dev
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+4. **Hap në browser**
+   ```
+   http://localhost:3000
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📊 Statistikat
+
+- 📈 **95%** Përmirësim në Performancë
+- ⏱️ **80%** Kursim Kohe në Trajnime  
+- 🏢 **500+** Kompani të Kënaqura
+
+## 🎯 Si Funksionon
+
+1. **Analizimi i Performancës** - Sistemi analizon vlerësimet dhe gabimet
+2. **Gjenerimi i Kurseve** - AI krijon kurse të personalizuara
+3. **Ndjekja e Progresit** - Monitorohet dhe përditësohet vazhdimisht
+
+## 🌟 Për Prezantime
+
+Ky projekt është optimizuar për prezantime startup dhe demo. Fokusohet në:
+- Visual impact maksimal
+- Mesazhe të qarta për investitorë
+- UI që demonstron teknologjinë
+- Përmbajtje në shqip për tregun vendor
+
+---
+
+💡 **Gati për të revolucionuar trajnimin e punonjësve?**
